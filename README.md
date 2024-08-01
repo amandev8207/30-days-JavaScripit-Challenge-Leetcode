@@ -1,2 +1,2 @@
-# 30-days-JavaScripit-Challenge-Leetcode
+# 30-days-JavaScripit-Challenge-LeetCode
 this repo for daily challenges
